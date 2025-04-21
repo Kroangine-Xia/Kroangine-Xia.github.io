@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Zhaoshi&#39;s Blog</title>
+  <title>kroangine&#39;s Blog</title>
   
   <subtitle>a blog for sharing knowledge and experience</subtitle>
-  <link href="http://ahebheched.github.io/atom.xml" rel="self"/>
+  <link href="http://kroangine-xia.github.io/atom.xml" rel="self"/>
   
-  <link href="http://ahebheched.github.io/"/>
-  <updated>2024-12-05T18:39:47.757Z</updated>
-  <id>http://ahebheched.github.io/</id>
+  <link href="http://kroangine-xia.github.io/"/>
+  <updated>2025-04-21T14:19:14.780Z</updated>
+  <id>http://kroangine-xia.github.io/</id>
   
   <author>
-    <name>Hua Zhaoshi</name>
+    <name>kroangine</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>在云服务器上进行模型训练</title>
+    <link href="http://kroangine-xia.github.io/2025/04/21/%E5%9C%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E8%BF%9B%E8%A1%8C%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83/"/>
+    <id>http://kroangine-xia.github.io/2025/04/21/%E5%9C%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E8%BF%9B%E8%A1%8C%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83/</id>
+    <published>2025-04-21T14:18:16.000Z</published>
+    <updated>2025-04-21T14:19:14.780Z</updated>
+    
+    <content type="html"><![CDATA[<p>#你哈o<br>##gg<br>###1234</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#你哈o&lt;br&gt;##gg&lt;br&gt;###1234&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;li</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://ahebheched.github.io/2024/12/06/hello-world/"/>
-    <id>http://ahebheched.github.io/2024/12/06/hello-world/</id>
+    <link href="http://kroangine-xia.github.io/2024/12/06/hello-world/"/>
+    <id>http://kroangine-xia.github.io/2024/12/06/hello-world/</id>
     <published>2024-12-05T18:39:47.756Z</published>
     <updated>2024-12-05T18:39:47.757Z</updated>
     
