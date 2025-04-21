@@ -6,7 +6,7 @@
   <link href="http://kroangine-xia.github.io/atom.xml" rel="self"/>
   
   <link href="http://kroangine-xia.github.io/"/>
-  <updated>2025-04-21T14:19:14.780Z</updated>
+  <updated>2025-04-21T15:01:24.850Z</updated>
   <id>http://kroangine-xia.github.io/</id>
   
   <author>
@@ -17,19 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客make笔记</title>
+    <link href="http://kroangine-xia.github.io/2025/04/21/%E5%8D%9A%E5%AE%A2make%E7%AC%94%E8%AE%B0/"/>
+    <id>http://kroangine-xia.github.io/2025/04/21/%E5%8D%9A%E5%AE%A2make%E7%AC%94%E8%AE%B0/</id>
+    <published>2025-04-21T14:45:45.000Z</published>
+    <updated>2025-04-21T15:01:24.850Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、hexo指令"><a href="#一、hexo指令" class="headerlink" title="一、hexo指令"></a>一、hexo指令</h2><ol><li>创建新markdown笔记</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new post &quot;博客make笔记&quot;</span><br></pre></td></tr></table></figure><ol start="2"><li>生成网页 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure></li><li>上传本地检查<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure></li><li>上传网页<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure></li></ol><h2 id="二、markdown常用语法"><a href="#二、markdown常用语法" class="headerlink" title="二、markdown常用语法"></a>二、markdown常用语法</h2><ol><li>标题（#）</li></ol><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><ol start="2"><li>字体样式</li></ol><p><em>斜体</em> 或 <em>斜体</em><br><strong>加粗</strong> 或 <strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p><ol start="3"><li>列表</li></ol><p>无序列表：</p><ul><li>项目一</li><li>项目二<ul><li>子项目</li></ul></li></ul><ul><li>也可以用星号</li></ul><p>有序列表：</p><ol><li>第一项</li><li>第二项<ol><li>子项</li></ol></li><li>链接与图片</li></ol><p><a href="https://example.com/">这是一个链接</a></p><p><img src="https://example.com/image.png" alt="图片描述"></p><ol start="4"><li>引用</li></ol><blockquote><p>这是一个引用  </p><blockquote><p>可以嵌套引用<br>5. 代码<br>行内代码：</p></blockquote></blockquote><p>这是 <code>行内代码</code><br>代码块： 使用三个反引号 &#96;&#96;&#96; 或 缩进四个空格</p><pre> ```python def hello(): print("Hello, Markdown!") ``` </pre><ol start="6"><li>表格</li></ol><table><thead><tr><th>姓名</th><th>年龄</th><th>职业</th></tr></thead><tbody><tr><td>张三</td><td>25</td><td>工程师</td></tr><tr><td>李四</td><td>30</td><td>设计师</td></tr></tbody></table><ol start="7"><li>分割线</li></ol><hr><p>或者</p><hr><ol start="8"><li>任务列表（支持的平台，如 GitHub）</li></ol><ul><li><input disabled="" type="checkbox"> 未完成任务</li><li><input checked="" disabled="" type="checkbox"> 已完成任务</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一、hexo指令&quot;&gt;&lt;a href=&quot;#一、hexo指令&quot; class=&quot;headerlink&quot; title=&quot;一、hexo指令&quot;&gt;&lt;/a&gt;一、hexo指令&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;创建新markdown笔记&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>在云服务器上进行模型训练</title>
     <link href="http://kroangine-xia.github.io/2025/04/21/%E5%9C%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E8%BF%9B%E8%A1%8C%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83/"/>
     <id>http://kroangine-xia.github.io/2025/04/21/%E5%9C%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E8%BF%9B%E8%A1%8C%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83/</id>
     <published>2025-04-21T14:18:16.000Z</published>
-    <updated>2025-04-21T14:19:14.780Z</updated>
+    <updated>2025-04-21T15:49:07.210Z</updated>
     
-    <content type="html"><![CDATA[<p>#你哈o<br>##gg<br>###1234</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="文件上传"><a href="#文件上传" class="headerlink" title="文件上传"></a>文件上传</h1><ol><li>代码、框架等用github上传和下拉</li><li>本地数据集用scp指令推送到云服务器<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">scp -r /d/Desktop/Research_Assistant/openvpi_diffsigner/Diffsinger_jiajing/jiajing ubuntu@10.100.164.108:/home/ubuntu/kroangine/DiffSinger/data/</span><br></pre></td></tr></table></figure></li></ol><h1 id="tensorboard-可视化"><a href="#tensorboard-可视化" class="headerlink" title="tensorboard 可视化"></a>tensorboard 可视化</h1><p>使用虚拟环境来隔离依赖</p><ol><li>创建虚拟环境：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python3 -m venv tb-env</span><br></pre></td></tr></table></figure></li><li>激活虚拟环境：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">source tb-env/bin/activate</span><br></pre></td></tr></table></figure></li><li>安装 TensorBoard 以及所需的其他依赖（如 tensorflow）：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install tensorboard tensorflow</span><br></pre></td></tr></table></figure></li><li>启动 TensorBoard：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tensorboard --logdir /home/ubuntu/kroangine/DiffSinger</span><br></pre></td></tr></table></figure></li><li>如果你在本地无法访问，你可以尝试以下命令来绑定所有接口：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tensorboard --logdir /home/ubuntu/kroangine/DiffSinger --bind_all</span><br></pre></td></tr></table></figure></li></ol><h2 id="内网-局域网服务器，尝试-ssh-隧道"><a href="#内网-局域网服务器，尝试-ssh-隧道" class="headerlink" title="内网&#x2F;局域网服务器，尝试 ssh 隧道"></a>内网&#x2F;局域网服务器，尝试 ssh 隧道</h2><ol><li>假设你在 本地电脑 上，终端执行：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -L 6007:localhost:6007 ubuntu@你的服务器IP</span><br></pre></td></tr></table></figure></li><li>登录成功后，在浏览器打开：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http://localhost:6007</span><br></pre></td></tr></table></figure></li></ol><h1 id="检查显存使用情况"><a href="#检查显存使用情况" class="headerlink" title="检查显存使用情况"></a>检查显存使用情况</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">watch -n 0.5 nvidia-smi</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;#你哈o&lt;br&gt;##gg&lt;br&gt;###1234&lt;/p&gt;
-&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;li</summary>
+    <summary type="html">&lt;h1 id=&quot;文件上传&quot;&gt;&lt;a href=&quot;#文件上传&quot; class=&quot;headerlink&quot; title=&quot;文件上传&quot;&gt;&lt;/a&gt;文件上传&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;代码、框架等用github上传和下拉&lt;/li&gt;
+&lt;li&gt;本地数据集用scp指令推送到云服务器&lt;figure cl</summary>
       
     
     
